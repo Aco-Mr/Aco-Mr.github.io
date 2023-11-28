@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aco の 博客</title>
+  
+  <subtitle>Aco の 博客</subtitle>
+  <link href="https://aco-mr.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://aco-mr.github.io/"/>
+  <updated>2023-11-28T12:52:03.627Z</updated>
+  <id>https://aco-mr.github.io/</id>
+  
+  <author>
+    <name>Aco</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://aco-mr.github.io/posts/4a17b156.html"/>
+    <id>https://aco-mr.github.io/posts/4a17b156.html</id>
+    <published>2023-11-28T12:29:31.963Z</published>
+    <updated>2023-11-28T12:52:03.627Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://aco-mr.github.io/posts/0.html"/>
+    <id>https://aco-mr.github.io/posts/0.html</id>
+    <published>2023-11-28T12:29:31.962Z</published>
+    <updated>2023-11-28T12:52:03.624Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
