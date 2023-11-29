@@ -6,47 +6,239 @@
   <link href="https://aco-mr.github.io/atom.xml" rel="self"/>
   
   <link href="https://aco-mr.github.io/"/>
-  <updated>2023-11-28T12:52:03.627Z</updated>
+  <updated>2023-11-29T09:38:15.268Z</updated>
   <id>https://aco-mr.github.io/</id>
   
   <author>
-    <name>Aco</name>
+    <name>俞晓洽</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://aco-mr.github.io/posts/4a17b156.html"/>
-    <id>https://aco-mr.github.io/posts/4a17b156.html</id>
-    <published>2023-11-28T12:29:31.963Z</published>
-    <updated>2023-11-28T12:52:03.627Z</updated>
+    <title>SpringBoot集成Redisson</title>
+    <link href="https://aco-mr.github.io/posts/1d400328.html"/>
+    <id>https://aco-mr.github.io/posts/1d400328.html</id>
+    <published>2023-11-29T09:37:19.000Z</published>
+    <updated>2023-11-29T09:38:15.268Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;SpringBoot集成Redisson&quot;&gt;&lt;a href=&quot;#SpringBoot集成Redisson&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="数据库" scheme="https://aco-mr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Redis" scheme="https://aco-mr.github.io/tags/Redis/"/>
     
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://aco-mr.github.io/posts/0.html"/>
-    <id>https://aco-mr.github.io/posts/0.html</id>
-    <published>2023-11-28T12:29:31.962Z</published>
-    <updated>2023-11-28T12:52:03.624Z</updated>
+    <title>SpringBoot集成Redis</title>
+    <link href="https://aco-mr.github.io/posts/f677ab49.html"/>
+    <id>https://aco-mr.github.io/posts/f677ab49.html</id>
+    <published>2023-11-29T09:32:26.000Z</published>
+    <updated>2023-11-29T09:34:40.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;添加依赖&quot;&gt;&lt;a href=&quot;#添加依赖&quot; class=&quot;headerlink&quot; title=&quot;添加依赖&quot;&gt;&lt;/a&gt;添加依赖&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-markup&quot;</summary>
+        
+      
     
     
     
+    <category term="数据库" scheme="https://aco-mr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
+    
+    <category term="Redis" scheme="https://aco-mr.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL主从同步实战</title>
+    <link href="https://aco-mr.github.io/posts/f7b1a35f.html"/>
+    <id>https://aco-mr.github.io/posts/f7b1a35f.html</id>
+    <published>2023-11-29T09:17:53.000Z</published>
+    <updated>2023-11-29T09:20:21.852Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Windows10启动多MySQL服务&quot;&gt;&lt;a href=&quot;#Windows10启动多MySQL服务&quot; class=&quot;headerlink&quot; title=&quot;Windows10启动多MySQL服务&quot;&gt;&lt;/a&gt;Windows10启动多MySQL服务&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://aco-mr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Mysql" scheme="https://aco-mr.github.io/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot多数据源实战</title>
+    <link href="https://aco-mr.github.io/posts/d5cfb348.html"/>
+    <id>https://aco-mr.github.io/posts/d5cfb348.html</id>
+    <published>2023-11-29T09:17:38.000Z</published>
+    <updated>2023-11-29T09:19:42.155Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、项目版本&quot;&gt;&lt;a href=&quot;#一、项目版本&quot; class=&quot;headerlink&quot; title=&quot;一、项目版本&quot;&gt;&lt;/a&gt;一、项目版本&lt;/h2&gt;&lt;p&gt;springboot：2.6.12&lt;br&gt;mybatis-plus：3.5.1&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://aco-mr.github.io/categories/Java/"/>
+    
+    
+    <category term="SpringBoot" scheme="https://aco-mr.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL原理及优化实战</title>
+    <link href="https://aco-mr.github.io/posts/c6d084e0.html"/>
+    <id>https://aco-mr.github.io/posts/c6d084e0.html</id>
+    <published>2023-11-29T07:52:45.000Z</published>
+    <updated>2023-11-29T08:52:20.248Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、索引的概述&quot;&gt;&lt;a href=&quot;#一、索引的概述&quot; class=&quot;headerlink&quot; title=&quot;一、索引的概述&quot;&gt;&lt;/a&gt;一、索引的概述&lt;/h1&gt;&lt;h2 id=&quot;1-为什么要使用索引&quot;&gt;&lt;a href=&quot;#1-为什么要使用索引&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://aco-mr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Mysql" scheme="https://aco-mr.github.io/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot配置数据库密码加密</title>
+    <link href="https://aco-mr.github.io/posts/5cfa3192.html"/>
+    <id>https://aco-mr.github.io/posts/5cfa3192.html</id>
+    <published>2023-11-29T07:52:14.000Z</published>
+    <updated>2023-11-29T09:15:00.474Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、Jasypt介绍&quot;&gt;&lt;a href=&quot;#一、Jasypt介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://aco-mr.github.io/categories/Java/"/>
+    
+    
+    <category term="SpringBoot" scheme="https://aco-mr.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot集成RocketMq</title>
+    <link href="https://aco-mr.github.io/posts/84726aad.html"/>
+    <id>https://aco-mr.github.io/posts/84726aad.html</id>
+    <published>2023-11-29T07:51:29.000Z</published>
+    <updated>2023-11-29T08:47:22.324Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-Boot集成RocketMq&quot;&gt;&lt;a href=&quot;#Spring-Boot集成RocketMq&quot; class=&quot;headerlink&quot; title=&quot;Spring Boot集成RocketMq&quot;&gt;&lt;/a&gt;Spring</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://aco-mr.github.io/categories/Java/"/>
+    
+    
+    <category term="SpringBoot" scheme="https://aco-mr.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RocketMq的7种消息模式</title>
+    <link href="https://aco-mr.github.io/posts/96c31d08.html"/>
+    <id>https://aco-mr.github.io/posts/96c31d08.html</id>
+    <published>2023-11-29T07:50:57.000Z</published>
+    <updated>2023-11-29T08:48:14.668Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;RocketMQ的7种消息模式&quot;&gt;&lt;a href=&quot;#RocketMQ的7种消息模式&quot; class=&quot;headerlink&quot; title=&quot;RocketMQ的7种消息模式&quot;&gt;&lt;/a&gt;RocketMQ的7种消息模式&lt;/h1&gt;&lt;h2 id=&quot;1、简单消息&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Mq" scheme="https://aco-mr.github.io/categories/Mq/"/>
+    
+    
+    <category term="RocketMq" scheme="https://aco-mr.github.io/tags/RocketMq/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RocketMq部署</title>
+    <link href="https://aco-mr.github.io/posts/e719f2c4.html"/>
+    <id>https://aco-mr.github.io/posts/e719f2c4.html</id>
+    <published>2023-11-29T06:46:46.000Z</published>
+    <updated>2023-11-29T08:42:41.326Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、技术架构&quot;&gt;&lt;a href=&quot;#一、技术架构&quot; class=&quot;headerlink&quot; title=&quot;一、技术架构&quot;&gt;&lt;/a&gt;一、技术架构&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/medias/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Mq" scheme="https://aco-mr.github.io/categories/Mq/"/>
+    
+    
+    <category term="RocketMq" scheme="https://aco-mr.github.io/tags/RocketMq/"/>
     
   </entry>
   
