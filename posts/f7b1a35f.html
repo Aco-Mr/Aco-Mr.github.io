@@ -678,7 +678,7 @@ mysql<span class="token operator">&gt;</span> <span class="token keyword">show</
 
 <p>2、更改密码长度<br>set global validate_password_length=4;</p>
 <p>3、设置密码验证策略(medium【中】,low【低】)<br>set global validate_password_policy=0;</p>
-<h3 id="2-主从同步的加密方式不一致问题"><a href="#2-主从同步的加密方式不一致问题" class="headerlink" title="(2) 主从同步的加密方式不一致问题"></a>(2) 主从同步的加密方式不一致问题</h3><h4 id="报错信息-error-connecting-to-master-‘-x6d-121-x73-x71-108-64-49-57-50-x2e-49-x36-x38-x2e-50-x38-46-x33-3306’-retry-time-60-retries-1-message-Authentication-plugin-‘caching-sha2-password’-reported-error-Authentication-requires-secure-connection"><a href="#报错信息-error-connecting-to-master-‘-x6d-121-x73-x71-108-64-49-57-50-x2e-49-x36-x38-x2e-50-x38-46-x33-3306’-retry-time-60-retries-1-message-Authentication-plugin-‘caching-sha2-password’-reported-error-Authentication-requires-secure-connection" class="headerlink" title="报错信息:error connecting to master ‘mysql@192.168.28.3:3306’ - retry-time: 60 retries: 1 message: Authentication plugin ‘caching_sha2_password’ reported error: Authentication requires secure connection."></a>报错信息:error connecting to master ‘<a href="mailto:mysql@192.168.28.3">mysql@192.168.28.3</a>:3306’ - retry-time: 60 retries: 1 message: Authentication plugin ‘caching_sha2_password’ reported error: Authentication requires secure connection.</h4><h4 id="原因-1"><a href="#原因-1" class="headerlink" title="- 原因"></a>- 原因</h4><p><strong>加密方式和解密方式不一致，需要修改密码加密规则</strong></p>
+<h3 id="2-主从同步的加密方式不一致问题"><a href="#2-主从同步的加密方式不一致问题" class="headerlink" title="(2) 主从同步的加密方式不一致问题"></a>(2) 主从同步的加密方式不一致问题</h3><h4 id="报错信息-error-connecting-to-master-‘-109-x79-115-x71-108-x40-x31-57-x32-x2e-49-x36-56-x2e-50-56-46-51-3306’-retry-time-60-retries-1-message-Authentication-plugin-‘caching-sha2-password’-reported-error-Authentication-requires-secure-connection"><a href="#报错信息-error-connecting-to-master-‘-109-x79-115-x71-108-x40-x31-57-x32-x2e-49-x36-56-x2e-50-56-46-51-3306’-retry-time-60-retries-1-message-Authentication-plugin-‘caching-sha2-password’-reported-error-Authentication-requires-secure-connection" class="headerlink" title="报错信息:error connecting to master ‘mysql@192.168.28.3:3306’ - retry-time: 60 retries: 1 message: Authentication plugin ‘caching_sha2_password’ reported error: Authentication requires secure connection."></a>报错信息:error connecting to master ‘<a href="mailto:mysql@192.168.28.3">mysql@192.168.28.3</a>:3306’ - retry-time: 60 retries: 1 message: Authentication plugin ‘caching_sha2_password’ reported error: Authentication requires secure connection.</h4><h4 id="原因-1"><a href="#原因-1" class="headerlink" title="- 原因"></a>- 原因</h4><p><strong>加密方式和解密方式不一致，需要修改密码加密规则</strong></p>
 <h4 id="解决方法-1"><a href="#解决方法-1" class="headerlink" title="- 解决方法"></a>- 解决方法</h4><p><strong>修改主库账号密码规则</strong></p>
 <pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token comment">-- 修改用户的密码策略</span>
 <span class="token keyword">ALTER</span> <span class="token keyword">USER</span> <span class="token string">'aco'</span><span class="token variable">@'%'</span> IDENTIFIED <span class="token keyword">WITH</span> mysql_native_password <span class="token keyword">BY</span> <span class="token string">'123456'</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
@@ -706,7 +706,7 @@ FLUSH <span class="token keyword">PRIVILEGES</span><span aria-hidden="true" clas
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="/about" rel="external nofollow noreferrer">Aco</a>
+                    <a href="/about" rel="external nofollow noreferrer">A.co</a>
                 </span>
             </div>
             <div class="reprint__type">
@@ -729,7 +729,7 @@ FLUSH <span class="token keyword">PRIVILEGES</span><span aria-hidden="true" clas
                     本博客所有文章除特別声明外，均采用
                     <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
                     许可协议。转载请注明来源
-                    <a href="/about" target="_blank">Aco</a>
+                    <a href="/about" target="_blank">A.co</a>
                     !
                 </span>
             </div>
