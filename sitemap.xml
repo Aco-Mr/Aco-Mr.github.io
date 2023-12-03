@@ -123,14 +123,14 @@
   </url>
   
   <url>
-    <loc>https://aco-mr.github.io/tags/SpringBoot/</loc>
+    <loc>https://aco-mr.github.io/tags/RocketMq/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://aco-mr.github.io/tags/RocketMq/</loc>
+    <loc>https://aco-mr.github.io/tags/SpringBoot/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -153,14 +153,14 @@
   </url>
   
   <url>
-    <loc>https://aco-mr.github.io/categories/Java/</loc>
+    <loc>https://aco-mr.github.io/categories/Mq/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://aco-mr.github.io/categories/Mq/</loc>
+    <loc>https://aco-mr.github.io/categories/Java/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
